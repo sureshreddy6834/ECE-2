@@ -44,4 +44,7 @@ Def fun()
 ## function calling
 Fun()
 ## task
-Print ("hello world")
+```
+Def fun()
+    Print ("hello world")
+```
