@@ -36,3 +36,10 @@ _*sample text*_
 - EEE
    + EEEa
    + EEEb
+## code of function definition
+`
+Def fun()
+    Print ("welcome to GitHub workshop by apssdc")
+`
+## function calling
+Fun()
