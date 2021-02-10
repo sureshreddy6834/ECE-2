@@ -21,3 +21,11 @@ _*sample text*_
 >> H did fig rug to
 >>> Dutiful
 >>>> Fuck
+## ordered list
+1. ECE
+2. EEE
+3. CSE
+    1. cseA
+     2. CSEB
+4. Civil
+5. Mech
