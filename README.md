@@ -48,3 +48,9 @@ Fun()
 Def fun()
     Print ("hello world")
 ```
+## links
+[Google](https://www.google.com/)
+## add Gmail link
+[Gmail](sureshreddy6834@gmail.com)
+## add college website link
+[Clg mail](kit's college)
