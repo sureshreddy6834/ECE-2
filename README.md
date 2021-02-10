@@ -32,7 +32,7 @@ _*sample text*_
 ## unordered list
 - ECE
    * EceA
-    * Even
+   * Even
 - EEE
    + EEEa
-     +EEEb
+   +EEEb
